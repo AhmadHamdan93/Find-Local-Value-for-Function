@@ -1,0 +1,11 @@
+C:\Users\Hamdan\source\repos\MinMax\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\Hamdan\source\repos\MinMax\MinMax\bin\Debug\MinMax.exe
+C:\Users\Hamdan\source\repos\MinMax\MinMax\bin\Debug\MinMax.pdb
+C:\Users\Hamdan\source\repos\MinMax\MinMax\obj\Debug\MinMax.csproj.AssemblyReference.cache
+C:\Users\Hamdan\source\repos\MinMax\MinMax\obj\Debug\MinMax.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamdan\source\repos\MinMax\MinMax\obj\Debug\MinMax.Properties.Resources.resources
+C:\Users\Hamdan\source\repos\MinMax\MinMax\obj\Debug\MinMax.csproj.GenerateResource.cache
+C:\Users\Hamdan\source\repos\MinMax\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\Hamdan\source\repos\MinMax\MinMax\obj\Debug\MinMax.exe
+C:\Users\Hamdan\source\repos\MinMax\MinMax\obj\Debug\MinMax.pdb
+C:\Users\Hamdan\source\repos\MinMax\MinMax\obj\Debug\MinMax.Form1.resources
